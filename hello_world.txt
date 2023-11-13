@@ -1,0 +1,1 @@
+ I am currently enjoying my journey, using my previous knowledge of vim editor alongside Odinproject to learn git! 
